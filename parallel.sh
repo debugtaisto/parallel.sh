@@ -1,7 +1,6 @@
 #!/usr/bin/env bash
 
 __parallel_context=""
-__parallel_task=""
 __parallel_tagstring=""
 
 function context() {
